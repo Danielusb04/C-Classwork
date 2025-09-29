@@ -1,3 +1,5 @@
+// Saber si alguien tiene la edad necesaria para ingresar a una dicoteca
+
 #include <iostream>
 using namespace std;
 

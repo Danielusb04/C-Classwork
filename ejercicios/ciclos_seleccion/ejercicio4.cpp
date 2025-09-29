@@ -1,3 +1,4 @@
+// descuento de un producto segun la edad
 #include <iostream>
 using namespace std;
 

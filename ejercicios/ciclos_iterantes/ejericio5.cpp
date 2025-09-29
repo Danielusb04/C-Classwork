@@ -1,3 +1,5 @@
+// juego de adivinar el numero secreto
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,4 @@
+// Ejercicio 4: Un arreglo que busca en que posicion esta el numero a buscar
 #include <iostream>
 using namespace std;
 

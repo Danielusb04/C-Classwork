@@ -1,3 +1,5 @@
+// resta de decimales
+
 #include <iostream>
 using namespace std;
 

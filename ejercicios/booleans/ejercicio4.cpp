@@ -1,3 +1,5 @@
+// Saber si alguien mayor o menos de edad
+
 #include <iostream>
 using namespace std;
 

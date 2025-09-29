@@ -1,3 +1,5 @@
+// promedio de las notas
+
 #include <iostream>
 using namespace std;
 

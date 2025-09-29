@@ -1,3 +1,5 @@
+
+// resta de enteros
 #include <iostream>
 using namespace std;
 

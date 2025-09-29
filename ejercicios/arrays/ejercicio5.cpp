@@ -1,3 +1,5 @@
+// ejercio 5 ordena los numeros en un arreglo
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+// busqueda del numero mayor en un arreglo de 3
+
 #include <iostream>
 using namespace std;
 

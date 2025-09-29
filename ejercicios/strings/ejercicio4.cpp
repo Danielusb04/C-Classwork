@@ -1,3 +1,5 @@
+// contar cuantos letras tiene una palabra
+
 #include <iostream>
 #include <string>
 using namespace std;
